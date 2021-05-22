@@ -23,7 +23,7 @@ Sample Console Output:
 
 ***********************************
 Basic Elevator Simulation
-ELEV1 - goes UP, ELEV2 - goes DOWn
+ELEV1 - goes UP, ELEV2 - goes DOWN
 ***********************************
 
 Elevetor [ ELEV1 ] starting from Level [ 1 ]

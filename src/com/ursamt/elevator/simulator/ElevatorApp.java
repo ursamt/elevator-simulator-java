@@ -8,7 +8,7 @@ public class ElevatorApp {
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("***********************************");
 		System.out.println("Basic Elevator Simulation");
-		System.out.println("ELEV1 - goes UP, ELEV2 - goes DOWn");
+		System.out.println("ELEV1 - goes UP, ELEV2 - goes DOWN");
 		System.out.println("***********************************");
 		System.out.println();
 
